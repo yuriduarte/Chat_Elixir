@@ -14,6 +14,7 @@
                         'Elixir.ChatterWeb.LayoutView',
                         'Elixir.ChatterWeb.PageController',
                         'Elixir.ChatterWeb.PageView',
+                        'Elixir.ChatterWeb.Presence',
                         'Elixir.ChatterWeb.Router',
                         'Elixir.ChatterWeb.Router.Helpers',
                         'Elixir.ChatterWeb.UserSocket']},

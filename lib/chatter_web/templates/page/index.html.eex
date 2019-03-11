@@ -11,4 +11,10 @@
     </ul>
     <input type="text" id="newMessage" class="form-control">
   </div>
+  <div class="col-md-4">
+    <h3>Users Online:</h3>
+    <ul id="userList" class="list-unstyled">
+      <li></li>
+    </ul>
+  </div>
 </div>
